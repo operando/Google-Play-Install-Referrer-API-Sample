@@ -4,6 +4,8 @@
 * https://android-developers.googleblog.com/2017/11/google-play-referrer-api-track-and.html
 * http://blog.techium.jp/entry/2017/11/28/100000_1
 * API works with the Play Store app from version 8.3.73 and later for all developers.
+* InstallReferrerClientImplの処理が重要
+* ReferrerDetailsから取得できる値はBundleから取り出してる
 
 ## InstallReferrerClientImpl
 
